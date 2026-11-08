@@ -1,4 +1,3 @@
-Plaintext
 discord.py
+pytz
 python-dotenv
-requests
